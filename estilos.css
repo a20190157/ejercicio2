@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: aquamarine;
+}
